@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+
+>
+<channel>
+	<title>
+	Commentaires sur : IA en Santé, l’approche de Microsoft	</title>
+	<atom:link href="/e-sante-et-les-nouvelles-tendances-de-l-intelligence-artificielle/ptit-bio-2019-ia-en-sante-lapproche-de-microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>/e-sante-et-les-nouvelles-tendances-de-l-intelligence-artificielle/ptit-bio-2019-ia-en-sante-lapproche-de-microsoft/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ptit-bio-2019-ia-en-sante-lapproche-de-microsoft</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Wed, 08 Jan 2020 08:47:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+</channel>
+</rss>

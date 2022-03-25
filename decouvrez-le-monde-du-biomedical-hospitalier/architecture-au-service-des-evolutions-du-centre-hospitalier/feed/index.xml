@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+
+>
+<channel>
+	<title>
+	Commentaires sur : L’architecture au service des évolutions de prise en charge patient	</title>
+	<atom:link href="/decouvrez-le-monde-du-biomedical-hospitalier/architecture-au-service-des-evolutions-du-centre-hospitalier/feed/" rel="self" type="application/rss+xml" />
+	<link>/decouvrez-le-monde-du-biomedical-hospitalier/architecture-au-service-des-evolutions-du-centre-hospitalier/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=architecture-au-service-des-evolutions-du-centre-hospitalier</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Tue, 07 Jan 2020 08:31:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+</channel>
+</rss>

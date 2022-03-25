@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+<channel>
+	<title>Polytech Lyon &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<atom:link href="/category/mieux-nous-connaitre/polytech-lyon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Mon, 25 Nov 2019 10:14:04 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/05/cropped-logo-32x32.png</url>
+	<title>Polytech Lyon &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Polytech Lyon et Génie Biomédical</title>
+		<link>/mieux-nous-connaitre/polytech-lyon/polytech-lyon-et-genie-biomedical/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=polytech-lyon-et-genie-biomedical</link>
+					<comments>/mieux-nous-connaitre/polytech-lyon/polytech-lyon-et-genie-biomedical/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Jouvenne]]></dc:creator>
+		<pubDate>Sat, 21 Sep 2019 13:00:28 +0000</pubDate>
+				<category><![CDATA[L'apleb se bouge et part à votre rencontre]]></category>
+		<category><![CDATA[Mieux nous connaître]]></category>
+		<category><![CDATA[Polytech Lyon]]></category>
+		<guid isPermaLink="false">/?p=686</guid>
+
+					<description><![CDATA[<p>Polytech Lyon, la force d&#8217;un réseau. Polytech Lyon est une école d&#8217;ingénieurs qui fait parti du réseau Polytech. Elle forme des ingénieurs depuis 1992. Six départements regroupent plus de 850 élèves ingénieurs. Polytech Lyon proposent des formations variées comme l’informatique, l’ingénierie des surfaces, les mathématiques appliquées, la mécanique, les systèmes industriels et enfin le génie biomédical. La spécialité d’ingénieur génie biomédical de l’école Polytech Lyon a subit de nombreux changements au fil des années. Elle ouvre en 1974 sous la forme d’une Maîtrise de Sciences et Techniques (MST) de l’université Lyon 1. Elle est complétée en 1992 par un Diplôme d’Études Supérieures Spécialisées (DESS). La formation passe sous un format Licence-Master-Doctorat (LMD) en 2004. C’est en 2008 qu’elle obtient l&#8217;habilitation à délivrer le diplôme d’ingénieur. C&#8217;est à ce moment que la spécialité passe sous l&#8217;égide de l’école Polytech Lyon. Il s&#8217;agit donc d&#8217;une filière jeune mais très dynamique. En effet, de nombreux projets ont vu le jour au sein de l&#8217;APLEB (Association de Polytech Lyon des Elèves ingénieurs en Biomédical). Le génie Biomédical à Polytech Lyon Au cours de son cursus, l’élève ingénieur en génie biomédical suit une formation de tronc commun. Celui-ci permet l’acquisition de la double compétence électronique/informatique et biomédicale. En plus de cette formation, chaque élève ingénieur a l’occasion de mettre en pratique ses compétences lors de plusieurs stages. Il effectue un stage estival en milieu hospitalier (8 semaines) après sa troisième année. Il enchaîne ensuite avec un stage en tant qu’assistant ingénieur (16 semaines) en début de 4e année. Enfin, l&#8217;étudiant finit sa cinquième année par un stage de fin d’étude (24 semaines). Un master en double diplôme peut compléter la formation en cinquième année. L&#8217;étudiant est très libre dans ses choix de stage. En effet, il peut travailler dans le secteur public en tant qu&#8217;ingénieur biomédical ou acheteur de dispositif médicaux, mais aussi dans le privé. Il peut ainsi intégrer une équipe marketing, commerciale ou de support client. Cette grande variété de profils fait la force du génie biomédical. Avec plus de 700 anciens diplômés, cette formation est une des plus anciennes de France dans le domaine de l’ingénierie appliquée aux dispositifs médicaux, avec une spécialisation reconnue dans l’instrumentation destinée au domaine de la santé.</p>
+<p>L’article <a rel="nofollow" href="/mieux-nous-connaitre/polytech-lyon/polytech-lyon-et-genie-biomedical/">Polytech Lyon et Génie Biomédical</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/mieux-nous-connaitre/polytech-lyon/polytech-lyon-et-genie-biomedical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

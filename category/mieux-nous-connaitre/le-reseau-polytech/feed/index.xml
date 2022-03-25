@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+<channel>
+	<title>Le réseau Polytech &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<atom:link href="/category/mieux-nous-connaitre/le-reseau-polytech/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Mon, 25 Nov 2019 10:14:21 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/05/cropped-logo-32x32.png</url>
+	<title>Le réseau Polytech &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le réseau Polytech</title>
+		<link>/mieux-nous-connaitre/le-reseau-polytech/le-reseau-polytech/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-reseau-polytech</link>
+					<comments>/mieux-nous-connaitre/le-reseau-polytech/le-reseau-polytech/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Jouvenne]]></dc:creator>
+		<pubDate>Mon, 23 Sep 2019 13:00:17 +0000</pubDate>
+				<category><![CDATA[L'apleb se bouge et part à votre rencontre]]></category>
+		<category><![CDATA[Le réseau Polytech]]></category>
+		<guid isPermaLink="false">/?p=709</guid>
+
+					<description><![CDATA[<p>Le réseau Polytech réunit 15 établissements publics. Il dépend du ministère de l&#8217;Enseignement supérieur, de la recherche et de l&#8217;innovation. Ces écoles ont l&#8217;habilitation nécessaire pour délivrer des diplômes d&#8217;ingénieur reconnus par la Commission des Titres d&#8217;Ingénieur. Le réseau Polytech propose 12 domaines de formation. Entre génie des procédés, génie biologique, génie civil ou en encore génie biomédical, chacun peut trouver la spécialité qui lui correspond. Au total, Polytech a formé plus de 80 000 ingénieurs aujourd&#8217;hui en activité. Chaque année, près de 3600 élèves reçoivent leur diplôme. Le réseau Polytech fournit à ses étudiants des bases scientifiques et techniques solides afin de les rendre rapidement opérationnels dans le monde du travail. Il propose également une formation appuyée dans les sciences humaines et économiques. En effet, la conduite de projets, la gestion des ressources humaines ou même la comptabilité sont des facettes importantes du métier d&#8217;ingénieur. La recherche, l&#8217;innovation et l&#8217;entreprise font partie intégrante de la formation. Le réseau Polytech développe des partenariats avec près de 160 laboratoires installés au cœur des universités. Il collabore avec 35 pôles de compétitivité répartis dans toute la France. Il participe ainsi à l&#8217;innovation des technologies de demain. Enfin, le réseau Polytech, c&#8217;est l&#8217;assurance d&#8217;une vie étudiante dynamique. En effet, de nombreuses associations, comme la notre, existent dans les différentes écoles du réseau. De plus, des événements regroupant toutes les entités sont régulièrement organisés afin de créer une forte identité et un sentiment d&#8217;appartenance.</p>
+<p>L’article <a rel="nofollow" href="/mieux-nous-connaitre/le-reseau-polytech/le-reseau-polytech/">Le réseau Polytech</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/mieux-nous-connaitre/le-reseau-polytech/le-reseau-polytech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

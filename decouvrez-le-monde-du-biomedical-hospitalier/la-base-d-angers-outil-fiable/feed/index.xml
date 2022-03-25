@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+
+>
+<channel>
+	<title>
+	Commentaires sur : La base d’Angers, outil fiable ?	</title>
+	<atom:link href="/decouvrez-le-monde-du-biomedical-hospitalier/la-base-d-angers-outil-fiable/feed/" rel="self" type="application/rss+xml" />
+	<link>/decouvrez-le-monde-du-biomedical-hospitalier/la-base-d-angers-outil-fiable/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-base-d-angers-outil-fiable</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Fri, 06 Dec 2019 20:30:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+</channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+
+>
+<channel>
+	<title>
+	Commentaires sur : Table ronde &#8211; Quelle GMAO demain ?	</title>
+	<atom:link href="/decouvrez-le-monde-du-biomedical-hospitalier/table-ronde-quelle-gmao-demain-retour-experience/feed/" rel="self" type="application/rss+xml" />
+	<link>/decouvrez-le-monde-du-biomedical-hospitalier/table-ronde-quelle-gmao-demain-retour-experience/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=table-ronde-quelle-gmao-demain-retour-experience</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Tue, 07 Jan 2020 08:17:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+<channel>
+	<title>Emma Dreyfuss &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<atom:link href="/author/emmdre/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Mon, 31 Aug 2020 14:23:12 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/05/cropped-logo-32x32.png</url>
+	<title>Emma Dreyfuss &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lifen, une plateforme de centralisation des données de santé</title>
+		<link>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mai-2020/lifen-une-plateforme-de-centralisation-des-donnees-de-sante/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lifen-une-plateforme-de-centralisation-des-donnees-de-sante</link>
+					<comments>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mai-2020/lifen-une-plateforme-de-centralisation-des-donnees-de-sante/#respond</comments>
+		
+		<dc:creator><![CDATA[Emma Dreyfuss]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2020 14:23:12 +0000</pubDate>
+				<category><![CDATA[Minute Mai 2020]]></category>
+		<guid isPermaLink="false">/?p=1927</guid>
+
+					<description><![CDATA[<p>Aujourd’hui, la communication des données entre les hôpitaux publics, privés et les médecins généralistes pose une problématique sur le suivi du parcours de soin des patients. C’est au travers des enjeux visés par le programme « Ma Santé 2022 » que s’est développée une plateforme sécurisée d’envoi de documents médicaux, appelée Lifen, pour simplifier les échanges administratifs. D’après l’entreprise, « 25% des actes médicaux seraient redondants » on en déduit que ¼ des examens pratiqués seraient répétés à cause des contraintes rencontrées lors de la communication des résultats d’examens médicaux. La plateforme propose donc de palier à ce problème en proposant un outil qui facilite les échanges entre professionnels de santé, notamment via une messagerie sécurisée et un algorithme de détection des destinataires. Certifié « Hébergeur de Données de Santé », Lifen garantit des mesures de sécurité strictes et a convaincu aujourd’hui 80 000 médecins en France. Pour le moment, 20% des documents médicaux issus des hôpitaux français sont gérés par Lifen. L’entreprise est par ailleurs utilisée par les Hôpitaux de Strasbourg, le CHU de Nice, le CHR d’Orléans ou encore le CHU d’Angers, on pourrait donc s’attendre à un déploiement massif de cet outil dans les années qui arrivent. Emma Dreyfuss</p>
+<p>L’article <a rel="nofollow" href="/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mai-2020/lifen-une-plateforme-de-centralisation-des-donnees-de-sante/">Lifen, une plateforme de centralisation des données de santé</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mai-2020/lifen-une-plateforme-de-centralisation-des-donnees-de-sante/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>L&#8217;intelligence artificielle, capable de créer un nouvel antibiotique</title>
+		<link>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/lintelligence-artificielle-capable-de-creer-un-nouvel-antibiotique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lintelligence-artificielle-capable-de-creer-un-nouvel-antibiotique</link>
+					<comments>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/lintelligence-artificielle-capable-de-creer-un-nouvel-antibiotique/#comments</comments>
+		
+		<dc:creator><![CDATA[Emma Dreyfuss]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2020 10:05:07 +0000</pubDate>
+				<category><![CDATA[Minute Mars 2020]]></category>
+		<guid isPermaLink="false">/?p=1831</guid>
+
+					<description><![CDATA[<p>Les chercheurs du MIT ont utilisés un algorithme de deep-learning pour identifier un médicament capable de tuer des bactéries résistantes aux antibiotiques. Cette nouvelle biotechnologie permet de dépister plus d’une centaine de composés chimiques en quelques jours afin de détecter les antibiotiques capables de tuer les bactéries. Lors de tests en laboratoire, une molécule appelée halicine a tué un nombre conséquent de bactéries pathogènes ainsi que certaines souches résistantes à tous les antibiotiques connus. Face au coût, au spectre étroit de diversité chimique et au temps nécessaire des méthodes actuelles de dépistage de nouveaux antibiotiques, ces modèles informatiques peuvent être utilisés pour analyser les structures moléculaires de composés et les corréler avec des traits particuliers. Les chercheurs prévoient d’utiliser leur modèle pour concevoir de nouveaux antibiotiques et optimiser les molécules existantes. Ils envisagent aussi de poursuivre les études sur l’halicine avec une entreprise pharmaceutique dans l’espoir de la développer pour une utilisation chez l’homme.</p>
+<p>L’article <a rel="nofollow" href="/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/lintelligence-artificielle-capable-de-creer-un-nouvel-antibiotique/">L&rsquo;intelligence artificielle, capable de créer un nouvel antibiotique</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/lintelligence-artificielle-capable-de-creer-un-nouvel-antibiotique/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Une nouvelle étude révèle que le stress donne les cheveux gris</title>
+		<link>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/une-nouvelle-etude-revele-que-le-stress-donne-les-cheveux-gris/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=une-nouvelle-etude-revele-que-le-stress-donne-les-cheveux-gris</link>
+					<comments>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/une-nouvelle-etude-revele-que-le-stress-donne-les-cheveux-gris/#comments</comments>
+		
+		<dc:creator><![CDATA[Emma Dreyfuss]]></dc:creator>
+		<pubDate>Tue, 18 Aug 2020 09:47:08 +0000</pubDate>
+				<category><![CDATA[Minute Mars 2020]]></category>
+		<guid isPermaLink="false">/?p=1837</guid>
+
+					<description><![CDATA[<p>Le stress déclenche la libération de noradrénaline, souvent appelé hormone du stress. Cette hormone serait liée au changement de la couleur des cheveux car elle sollicite les cellules souches mélanocytaires dans les follicules pileux. Plus ces cellules sont sollicitées plus elles s’épuisent et disparaissent. A mesure que ces cellules pigmentaires disparaissent, la couleur aussi. Le corps ne pouvant pas reconstituer les cellules souches, nos cheveux resteront gris. Ces travaux soulèvent également la question du lien entre les cheveux gris liés au stress et les cheveux gris liés au vieillissement. Ils permettent également de poser les bases pour explorer d&#8217;autres façons dont le stress affecte le corps.</p>
+<p>L’article <a rel="nofollow" href="/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/une-nouvelle-etude-revele-que-le-stress-donne-les-cheveux-gris/">Une nouvelle étude révèle que le stress donne les cheveux gris</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/minute-biomed-newsletter-de-l-innovation-medicale-par-polytech-lyon/la-minute-biomedicale-par-les-etudiants-de-polytech-lyon/minute-mars-2020/une-nouvelle-etude-revele-que-le-stress-donne-les-cheveux-gris/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

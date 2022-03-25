@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PTIT BIO &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<atom:link href="/tag/ptit-bio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>L&#039;association du biomédical de demain</description>
+	<lastBuildDate>Thu, 05 Mar 2020 11:46:39 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/05/cropped-logo-32x32.png</url>
+	<title>PTIT BIO &#8211; Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PTIT BIO 2019 : L’intelligence artificielle et la prise en charge de l’AVC</title>
+		<link>/le-ptit-biomed/les-journees-afib/ptit-bio-2019-l-intelligence-artificielle-et-la-prise-en-charge-de-lavc/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ptit-bio-2019-l-intelligence-artificielle-et-la-prise-en-charge-de-lavc</link>
+					<comments>/le-ptit-biomed/les-journees-afib/ptit-bio-2019-l-intelligence-artificielle-et-la-prise-en-charge-de-lavc/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Jouvenne]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2020 14:00:00 +0000</pubDate>
+				<category><![CDATA[E-santé et les nouvelles tendances de l'intelligence artificielle]]></category>
+		<category><![CDATA[Les journées AFIB]]></category>
+		<category><![CDATA[AVC]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[PTIT BIO]]></category>
+		<guid isPermaLink="false">/?p=1270</guid>
+
+					<description><![CDATA[<p>À l’heure actuelle, l’intelligence artificielle peut avoir un apport concret dans le cadre de deux pathologies vasculaires : l’anévrisme intracrânien (3% de la population générale) et l’accident vasculaire cérébral (AVC). Le traitement se faisait via des équipements d’angiographie numérisée. C&#8217;est pourquoi le CHU de Reims a réalisé un investissement sur un système d’angiographie bi-plan. Ce dispositif possède des capteurs plans offrant une image de meilleure qualité et la possibilité de réaliser des roadmaps. Grâce au parallel working, le traitement d’image n’est plus à la charge du chirurgien mais d’un opérateur travaillant en per et en post-opératoire sur une autre console. L&#8217;IA dans le service de neurocardiologie En plus de cet équipement, le service de neuroradiologie interventionnelle utilise des logiciels considérés « intelligents » , permettant d’éclairer la décision thérapeutique. À titre d’exemple, le MR/ CT Roadmap autorise une fusion d’image avec une navigation multimodalité en temps réel. Cela permet de diminuer la quantité de produit de contraste, enjeu important de l’imagerie médicale actuelle. Un autre exemple est l’AneurysmFlow. Ce dispositif permet d’améliorer la visualisation du flux sanguin dans le vaisseau parent devant être épargné lors d’un traitement d’anévrisme. De plus, une quantification du flux sanguin de l’anévrisme avant et après la pose du dispositif médical est possible avec ce logiciel. Il permet ainsi de connaître l’impact du dispositif ou de la technique utilisée. Enfin, le VasoCT de Philips propose une acquisition tomodensitométrique avec une reconstruction 3D. Il est ainsi possible de mettre en avant la valeur de la lumière interne du vaisseau porteur ainsi que l’emplacement du dispositif par rapport au sac anévrismal. Le tout s&#8217;effectue en réduisant les artéfacts métalliques provoqués. La sécurité concernant le déploiement du dispositif médical est donc accrue. Ce logiciel, le VasoCT, existe également pour les accidents ischémiques. Cette utilisation est possible grâce à une visualisation de l’occlusion et des structures vasculaires en amont et en aval du caillot. Cela permet d’obtenir des informations sur la dimension de ce caillot ainsi que la direction de l’occlusion. Enfin, les dispositifs médicaux intelligents sont également intéressants pour ces deux pathologies. Le flow diverter rompt le flux arrivant dans l’anévrisme qui peut s&#8217;accoler aux parois vasculaires. Pr. Laurent Pierot, CHU de Reims Fabienne MENU, Cadre de santé vasculaire et interventionnel</p>
+<p>L’article <a rel="nofollow" href="/le-ptit-biomed/les-journees-afib/ptit-bio-2019-l-intelligence-artificielle-et-la-prise-en-charge-de-lavc/">PTIT BIO 2019 : L’intelligence artificielle et la prise en charge de l’AVC</a> est apparu en premier sur <a rel="nofollow" href="/">Association de Polytech Lyon des Eleves Ingénieurs en Biomédical</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/le-ptit-biomed/les-journees-afib/ptit-bio-2019-l-intelligence-artificielle-et-la-prise-en-charge-de-lavc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
